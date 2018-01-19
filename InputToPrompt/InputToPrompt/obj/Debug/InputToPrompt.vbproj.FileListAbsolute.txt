@@ -1,0 +1,11 @@
+C:\Users\santa\Documents\VBA Workspace\InputToPrompt\InputToPrompt\bin\Debug\InputToPrompt.exe.config
+C:\Users\santa\Documents\VBA Workspace\InputToPrompt\InputToPrompt\bin\Debug\InputToPrompt.exe
+C:\Users\santa\Documents\VBA Workspace\InputToPrompt\InputToPrompt\bin\Debug\InputToPrompt.pdb
+C:\Users\santa\Documents\VBA Workspace\InputToPrompt\InputToPrompt\bin\Debug\InputToPrompt.xml
+C:\Users\santa\Documents\VBA Workspace\InputToPrompt\InputToPrompt\obj\Debug\InputToPrompt.InputToPrompt.resources
+C:\Users\santa\Documents\VBA Workspace\InputToPrompt\InputToPrompt\obj\Debug\InputToPrompt.Resources.resources
+C:\Users\santa\Documents\VBA Workspace\InputToPrompt\InputToPrompt\obj\Debug\InputToPrompt.vbproj.GenerateResource.Cache
+C:\Users\santa\Documents\VBA Workspace\InputToPrompt\InputToPrompt\obj\Debug\InputToPrompt.vbproj.CoreCompileInputs.cache
+C:\Users\santa\Documents\VBA Workspace\InputToPrompt\InputToPrompt\obj\Debug\InputToPrompt.exe
+C:\Users\santa\Documents\VBA Workspace\InputToPrompt\InputToPrompt\obj\Debug\InputToPrompt.xml
+C:\Users\santa\Documents\VBA Workspace\InputToPrompt\InputToPrompt\obj\Debug\InputToPrompt.pdb
